@@ -87,15 +87,15 @@ class SettingsTableSeeder extends Seeder
         ],
         [
             'key'                       =>  'paypal_payment_method',
-            'value'                     =>  '',
+            'value'                     =>  'enabled',
         ],
         [
             'key'                       =>  'paypal_client_id',
-            'value'                     =>  '',
+            'value'                     =>  'AYfQpiMoStNWdorlROGuX6HHMBhTKGt8NwxETmtMBd6in39Lizhi0JLQrrU4tIVclnch_FXxavlmDPlW',
         ],
         [
             'key'                       =>  'paypal_secret_id',
-            'value'                     =>  '',
+            'value'                     =>  'ENfJoBCQL7HhWID4kfOueu4gwaKL98KdD8BY4yA7FMxTPON5Ae6wcDwxKuC0CvdR7KMiqnYwgk40Z7l6',
         ],
     ];
 
